@@ -1,0 +1,34 @@
+#banner{
+    background-image: url(Assets/Hero-bg.png);
+    height: 698px;
+    width: 1400px;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo{
+    color: #4E47FF;
+    font-weight: bold;
+    font-size: 34px;
+}
+
+.button-1{
+    padding: 12px 36px;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    border-radius: 10px;
+    border: none;
+}
+
+.banner-heading{
+    color: #252432;
+    font-weight: bold;
+    text-align: center;
+    font-size: 65px;
+    margin: 260px 267px 140px;
+}
