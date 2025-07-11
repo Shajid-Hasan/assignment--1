@@ -275,3 +275,47 @@
 .image-2{
     border-radius: 50%;
 }
+
+/* Action Section */
+
+#action-sec{
+    height: 600px;
+    width: 1140px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+}
+
+.action-head{
+    text-align: center;
+    font-size: 35px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+}
+
+.action-pa{
+    text-align: center;
+    color: #000000;
+}
+
+.button-4{
+    margin-left: 42%;
+    height: 41px;
+    width: 195px;
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    border-radius: 5px;
+    border: none;
+}
+
+.image-3{
+    height: 364px;
+    width: 840px;
+    border-radius: 48px;
+    margin-left: 15%;
+    margin-top: 10px;
+}
+
+
