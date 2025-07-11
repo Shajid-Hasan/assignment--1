@@ -193,8 +193,7 @@
 }
 .data3{
     font-size: 80px;
-        font-weight: bold;
-
+    font-weight: bold;
 }
 
 .data-name{
@@ -203,4 +202,74 @@
     width: 120px;
     height: 24px;
     color: #000000;
+}
+
+/* Touch Section */
+
+#touch-body{
+    height: 360px;
+    width: 1140px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+}
+
+#card-design{
+    display: flex;
+    justify-content: space-between;
+}
+
+.touch-t{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    /* border: 1px solid red; */
+}
+
+.port-1{
+    background-color: #FAFCFF;
+    /* border: 1px solid red; */
+    width: 260px;
+    height: 235px;
+}
+.star{
+    display: flex;
+    /* border: 1px solid red; */
+}
+
+.card-T{
+    font-size: 24px;
+    color: #1E1E1E;
+    /* border: 1px solid red; */
+}
+
+.card-p{
+    font-size: 15px;
+    color: #1E1E1E;
+}
+
+.reviewer{
+    display: flex;
+    justify-content: left;
+    gap: 10px;
+    align-items: center;
+
+}
+
+.r-name{
+    font-size: 13px;
+    font-weight: bold;
+    color: #757575;
+}
+
+.r-date{
+    font-size: 13px;
+    color: #B3B3B3;
+}
+
+.image-2{
+    border-radius: 50%;
 }
