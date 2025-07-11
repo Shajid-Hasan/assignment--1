@@ -155,6 +155,7 @@
     width: 1140px;
     margin: 0 auto;
     margin-top: 116px;
+    border-radius: 20px;
 }
 
 .user-back{
@@ -211,6 +212,7 @@
     width: 1140px;
     /* border: 1px solid red; */
     margin: 0 auto;
+    margin-top: 137px;
 }
 
 #card-design{
