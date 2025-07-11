@@ -13,6 +13,8 @@
     font-style: normal;
 }
 
+
+
 /* Navbar Section */
 
 #banner{
@@ -318,4 +320,49 @@
     margin-top: 10px;
 }
 
+/* Touch Section */
+
+#form{
+    display: flex;
+    /* justify-content: space-between; */
+    height: 480px;
+    width: 1140px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+    gap: 10%;
+    background-color: #F5F8FF;
+}
+
+.form-T{
+    margin-top: 30%;
+    /* border: 1px solid red; */
+    font-size: 70px;
+    height: 232px;
+    width: 500px;
+
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.email{
+    font-size: 15px;
+    border: none;
+}
+.form-style{
+    /* margin-right: 20%; */
+    margin-top: 45px;
+}
+
+.button-5{
+    height: 30px;
+    width: 300px;
+    margin-left: 50px;
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    border: none;
+    border-radius: 10px;
+    margin-top: 15px;
+}
 
